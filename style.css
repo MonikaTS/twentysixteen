@@ -815,7 +815,8 @@ a:active {
 }
 
 .main-navigation .menu-item-has-children > a {
-	padding-right: 48px;
+	/*padding-right: 48px;*/
+	margin-right:48px;
 }
 
 .dropdown-toggle {
@@ -2931,6 +2932,7 @@ p > video {
 
 	.main-navigation ul ul .menu-item-has-children > a {
 		padding-right: 2.0625em;
+		margin-right:0;
 	}
 
 	.main-navigation ul ul .menu-item-has-children > a:after {
